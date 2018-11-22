@@ -1,0 +1,1 @@
+This respository contains the programming asigments from Standford Machine Learning course. 
